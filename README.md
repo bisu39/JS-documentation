@@ -1,6 +1,6 @@
 # Documentaion Webpage with JS documentation
 
-This is a html and css based JavaScript documentation page. Fully responsive and clean UI.
+This is a simple html and css based JavaScript documentation page. Fully responsive and clean UI.
 
 ## 🔍 Features
 - Working side nav options
@@ -9,7 +9,7 @@ This is a html and css based JavaScript documentation page. Fully responsive and
 
 ## 🚀 Live Preview
 
-[Click here to view the live site](https://bisu39.github.io/Food_web/)
+[Click here to view the live site]( https://bisu39.github.io/JS-documentation/)
 
 ## 📁 Folder Structure
 
@@ -26,7 +26,7 @@ This is a html and css based JavaScript documentation page. Fully responsive and
 
 ## 📌 How to Use
 
-1. Clone the repository: https://github.com/bisu39/Food_web.git
+1. Clone the repository: https://github.com/bisu39/JS-documentation.git
 
 2. Open `index.html` in your browser to view the site.
 
